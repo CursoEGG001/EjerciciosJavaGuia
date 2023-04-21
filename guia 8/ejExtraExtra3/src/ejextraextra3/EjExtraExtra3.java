@@ -25,7 +25,7 @@ public class EjExtraExtra3 {
         
        
         
-        Pass clave=new Pass("", "Daniel",29203748);
+        Pass clave=new Pass("", "Daniel",30203748);
         
          System.out.println(clave);
         do {
